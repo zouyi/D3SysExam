@@ -1,0 +1,10 @@
+      <img src="img_fjords.jpg" alt="Trolltunga Norway" width="300" height="200">
+      <img src="img_forest.jpg" alt="Forest" width="300" height="200">
+      <img src="img_lights.jpg" alt="Northern Lights" width="300" height="200">
+      <img src="img_mountains.jpg" alt="Mountains" width="300" height="200">
+&nbsp;&nbsp;&nbsp; &lt;img src="fjords.jpg" alt="Fjords" width="300" height="200"&gt;<br>
+&nbsp;&nbsp;&nbsp; &lt;img src="forest.jpg" alt="Forest" width="300" height="200"&gt;<br>
+&nbsp;&nbsp;&nbsp; &lt;img src="lights.jpg" alt="Northern Lights" width="300" height="200"&gt;<br>
+&nbsp;&nbsp;&nbsp; &lt;img src="mountains.jpg" alt="Mountains" width="300" height="200"&gt;<br>
+<img src="responsiveImgGallery.jpg" style="width:100%">
+<img src="/images/colorpicker.gif" alt="colorpicker"></a>
