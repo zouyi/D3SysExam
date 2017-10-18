@@ -1,0 +1,30 @@
+/Users/a01040683/.Trash/desktpls.txt
+/Users/a01040683/.Trash/htdocs/commands/desktopls.txt
+/Users/a01040683/.Trash/htdocs/commands/img.txt
+/Users/a01040683/.Trash/htdocs 1.35.12 PM/commands/desktopls.txt
+/Users/a01040683/.Trash/htdocs 1.35.12 PM/commands/img.txt
+/Users/a01040683/.Trash/MyGit/desktopls.txt
+/Users/a01040683/Desktop/MyGit/D3SysExam/commands/bottom.txt
+/Users/a01040683/Desktop/MyGit/D3SysExam/commands/desktopls.txt
+/Users/a01040683/Desktop/MyGit/D3SysExam/commands/find.txt
+/Users/a01040683/Desktop/MyGit/D3SysExam/commands/img.txt
+/Users/a01040683/Desktop/MyGit/D3SysExam/commands/top.txt
+/Users/a01040683/Downloads/Class01/Lesson01/02Random.txt
+/Users/a01040683/Downloads/Class01/Lesson01/Random01.txt
+/Users/a01040683/Downloads/Class01/Lesson01/Random03.txt
+/Users/a01040683/Downloads/Class01 2/Lesson01/02Random.txt
+/Users/a01040683/Downloads/Class01 2/Lesson01/Random01.txt
+/Users/a01040683/Downloads/Class01 2/Lesson01/Random03.txt
+/Users/a01040683/Downloads/Class03/Lab03/Illustrator.txt
+/Users/a01040683/Downloads/Class03/Lab03/Photoshop.txt
+/Users/a01040683/Downloads/Class03/Lab03/Subdirectory/File01.txt
+/Users/a01040683/Downloads/Class03/Lab03/Subdirectory/File02.txt
+/Users/a01040683/Downloads/Class03/Lab03/Subdirectory/File03.txt
+/Users/a01040683/Downloads/Class03/Lab03/Subdirectory/File04.txt
+/Users/a01040683/Downloads/Class03/Lab03/Subdirectory/File05 2.txt
+/Users/a01040683/htdocs/commands/desktopls.txt
+/Users/a01040683/htdocs/commands/img.txt
+/Users/a01040683/Library/Application Support/Avid/AppManager/Config.txt
+/Users/a01040683/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+/Users/a01040683/Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+/Users/a01040683/Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
